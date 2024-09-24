@@ -1,6 +1,6 @@
 # SAP Document Information Extraction Automation
 
-This repository automates the extraction of information from PDF documents using SAP's Document Information Extraction (DOX) service. The script uploads PDF files from a folder, sends them to the SAP DOX service, and retrieves structured data.
+This repository automates the extraction of information from PDF documents using SAP's Document Information Extraction (DOX) service. The script uploads PDF files from a folder, sends them to the SAP DOX service, and retrieves structured data
 
 ## Features
 
